@@ -1,0 +1,12 @@
+- first unzip plate
+- add escape to commands 
+- you actually need to put the plate in the scene so you save data folder in demo_data
+
+
+
+
+# TODO 
+create single validation episode to understand how NNs overfit vs not. or are the demonstrations too multi-modal?
+i absolutely love jupyter notebooks. 
+
+# TODO understand batches and perfectly understand all input + output
